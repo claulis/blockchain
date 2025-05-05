@@ -105,3 +105,7 @@ Blockchains como **Bitcoin** e **Ethereum** dependem fortemente de criptografia 
    - Se a **assinatura** corresponde à **chave pública**.
    - Se você tem saldo suficiente.
 5. **Confirmação:** A transação é incluída em um bloco.
+
+---
+
+Aqui para [Algoritmos proof](../proof/README.md)

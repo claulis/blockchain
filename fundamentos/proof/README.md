@@ -212,3 +212,8 @@ No **PoS** (como Ethereum 2.0), não há mineração competitiva, então o *nonc
 ### **Curiosidade**  
 
 No Bitcoin, o *nonce* é um número de **32 bits**, limitado a ~4,3 bilhões de combinações. Se os mineradores testarem todos sem sucesso, eles alteram outros campos do bloco (como o *timestamp* ou uma transação) e reiniciam a busca.  
+
+---
+
+Aqui para exemplo sobre o [nonce](../proof/nonce/README.md)
+Aqui para exemplo sobre o [pos](../proof/pos/README.md)
