@@ -24,3 +24,5 @@ Pense em uma árvore genealógica, mas em vez de nomes, cada "parente" é um res
 
 Para mais detalhes [merkle](../estruturadados/merkle/README.md)
 
+---
+Aqui para [Criptografia assimetrica](../chaves/README.md)
