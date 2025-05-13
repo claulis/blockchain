@@ -38,69 +38,79 @@
 
 ## 📚 Conteúdo Programático (80h)
 
-🔹 [MÓDULO 1 – Fundamentos Web3 para Devs (12h)](fundamentos/)
- - Conceitos: Blockchain 
+🔹 **MÓDULO 1 – Fundamentos Web3 para Devs (12h)**
 
- - Estruturas de dados e algoritmos para blobkchain
- 
- - Ethereum
+- [Conceitos: Blockchain](/fundamentos/README.md)
 
+- [Estruturas de dados](/fundamentos/estruturadados/README.md)
+
+- Algoritmos [proof](/fundamentos/proof/README.md) para blockchain
+
+- Criptografia para blockchain: [chaves público/privada](/fundamentos/chaves/README.md) e [hash](/fundamentos/hash/README.md)
+
+- [Ethereum](/fundamentos/Ethereum/README.md)
 
 🔹 [MÓDULO 2 – Solidity para Devs (20h)](../blockchain/solidity/)
- - Tipos, storage vs memory, visibilidade, funções, structs
 
- - Eventos, modifiers, fallback, tratamento de erros
+- Tipos, storage vs memory, visibilidade, funções, structs
 
- - Projeto: Contrato ERC20 customizado
+- Eventos, modifiers, fallback, tratamento de erros
 
- - Testes automatizados com Hardhat: coverage, mocking, fuzzing simples
+- Projeto: Contrato ERC20 customizado
 
- - Otimização de gas e melhores práticas
+- Testes automatizados com Hardhat: coverage, mocking, fuzzing simples
+
+- Otimização de gas e melhores práticas
 
 🔹 [MÓDULO 3 – Tokens e Padrões (12h)](../blockchain/tokens/)
- - ERC-20: lógica de supply, approvals, allowance
 
- - ERC-721: NFTs com metadata, safeMint, baseURI
+- ERC-20: lógica de supply, approvals, allowance
 
- - Projeto: Marketplace NFT com contrato próprio
+- ERC-721: NFTs com metadata, safeMint, baseURI
 
- - Introdução ao ERC-1155 (multi-token padrão)
+- Projeto: Marketplace NFT com contrato próprio
+
+- Introdução ao ERC-1155 (multi-token padrão)
 
 🔹 [MÓDULO 4 – Front-end com Web3 (12h)](../blockchain/frontednweb3/)
- - Integração com Ethers.js e React (useEffect, hooks)
 
- - Conexão com carteiras (Metamask, WalletConnect)
+- Integração com Ethers.js e React (useEffect, hooks)
 
- - Lendo dados da blockchain, ouvindo eventos
+- Conexão com carteiras (Metamask, WalletConnect)
 
- - Transações assinadas pelo usuário
+- Lendo dados da blockchain, ouvindo eventos
+
+- Transações assinadas pelo usuário
 
 🔹 [MÓDULO 5 – Deploy & Infraestrutura Web3 (8h)](../blockchain/deploy/)
- - Deploy em testnet (Goerli/Sepolia)
 
- - Infura vs Alchemy
+- Deploy em testnet (Goerli/Sepolia)
 
- - IPFS: Upload e pinning via Fleek/Web3.storage
+- Infura vs Alchemy
 
- - Hospedagem descentralizada
+- IPFS: Upload e pinning via Fleek/Web3.storage
+
+- Hospedagem descentralizada
 
 🔹 [MÓDULO 6 – Segurança e Auditoria (8h)](../blockchain/security/)
- - Vulnerabilidades: reentrancy, overflow, frontrunning
 
- - Boas práticas de segurança com OpenZeppelin
+- Vulnerabilidades: reentrancy, overflow, frontrunning
 
- - Slither e ferramentas de auditoria estática
+- Boas práticas de segurança com OpenZeppelin
 
- - Padrões de upgrade e proxies (básico)
+- Slither e ferramentas de auditoria estática
+
+- Padrões de upgrade e proxies (básico)
 
 🔹 [MÓDULO 7 – Projeto Final (8h)](../blockchain/proejtofinal/)
- - Planejamento de DApp real
 
- - Desenvolvimento orientado (com mentoria)
+- Planejamento de DApp real
 
- - Testes + integração + deploy
+- Desenvolvimento orientado (com mentoria)
 
- - Apresentação técnica (pitch + código + funcionamento)
+- Testes + integração + deploy
+
+- Apresentação técnica (pitch + código + funcionamento)
 
 ---
 
@@ -113,6 +123,6 @@
 
 ---
 
-##  Licença
+## Licença
 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE.md).
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
