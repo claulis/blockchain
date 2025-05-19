@@ -1,5 +1,4 @@
-No contexto do Ethereum, as **Contas Externamente Controladas** (EOAs, do inglês *Externally Owned Accounts*) são um dos dois tipos principais de contas na rede blockchain do Ethereum, ao lado das **Contas de Contrato** (*Contract Accounts*). As EOAs são fundamentais para o funcionamento da rede, pois representam os usuários ou entidades que interagem diretamente com a blockchain. Abaixo, explico em detalhes o que são as EOAs, suas características, como funcionam e sua importância no ecossistema Ethereum.
-
+No contexto do Ethereum, as **Contas Externamente Controladas** (EOAs, do inglês *Externally Owned Accounts*) são um dos dois tipos principais de contas na rede blockchain do Ethereum, ao lado das **Contas de Contrato** (*Contract Accounts*). As EOAs são fundamentais para o funcionamento da rede, pois representam os usuários ou entidades que interagem diretamente com a blockchain. 
 ---
 
 ### **O que são Contas EOAs?**
