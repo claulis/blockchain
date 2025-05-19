@@ -1,7 +1,7 @@
-No contexto do Ethereum, as **Contas Externamente Controladas** (EOAs, do inglês *Externally Owned Accounts*) são um dos dois tipos principais de contas na rede blockchain do Ethereum, ao lado das **Contas de Contrato** (*Contract Accounts*). As EOAs são fundamentais para o funcionamento da rede, pois representam os usuários ou entidades que interagem diretamente com a blockchain. 
+# Contas EOAs 
 ---
 
-### **O que são Contas EOAs?**
+## **O que são Contas EOAs?**
 As EOAs são contas controladas por usuários ou entidades externas por meio de **chaves criptográficas** (uma chave pública e uma chave privada). Elas permitem que indivíduos ou sistemas interajam com a blockchain do Ethereum, enviando transações, transferindo Ether (ETH), ou interagindo com contratos inteligentes.
 
 - **Chave Privada**: Uma sequência secreta que permite ao titular assinar transações, comprovando sua identidade e autorização.
@@ -12,7 +12,7 @@ Diferentemente das Contas de Contrato, que são controladas por código (contrat
 
 ---
 
-### **Características das EOAs**
+## **Características das EOAs**
 1. **Controle por Chave Privada**:
    - Apenas o detentor da chave privada pode autorizar transações a partir de uma EOA.
    - Perder a chave privada significa perder o acesso à conta e aos ativos associados.
@@ -33,7 +33,7 @@ Diferentemente das Contas de Contrato, que são controladas por código (contrat
 
 ---
 
-### **Como as EOAs Funcionam?**
+## **Como as EOAs Funcionam?**
 As EOAs operam como ponto de entrada para interagir com a blockchain do Ethereum. Aqui está o processo básico:
 
 1. **Criação da Conta**:
@@ -60,7 +60,7 @@ As EOAs operam como ponto de entrada para interagir com a blockchain do Ethereum
 
 ---
 
-### **EOAs vs. Contas de Contrato**
+## **EOAs vs. Contas de Contrato**
 Para esclarecer a diferença entre os dois tipos de contas no Ethereum:
 
 | **Característica**            | **EOA**                              | **Conta de Contrato**               |
@@ -73,7 +73,7 @@ Para esclarecer a diferença entre os dois tipos de contas no Ethereum:
 
 ---
 
-### **Exemplo Prático**
+## **Exemplo Prático**
 Imagine que você quer comprar um NFT em um mercado como o OpenSea:
 1. Você usa sua EOA (gerenciada por uma carteira como MetaMask) para enviar uma transação ao contrato inteligente do OpenSea.
 2. A transação inclui:
@@ -87,7 +87,7 @@ Aqui, sua EOA é o ponto de partida para a interação, enquanto o contrato do O
 
 ---
 
-### **Importância das EOAs no Ethereum**
+## **Importância das EOAs no Ethereum**
 As EOAs são a interface primária entre usuários e a blockchain do Ethereum. Elas desempenham papéis cruciais:
 - **Acesso à Rede**: Permitem que qualquer pessoa participe do ecossistema Ethereum, desde enviar Ether até usar dApps.
 - **Descentralização**: Como são controladas por chaves privadas, não dependem de intermediários, reforçando o princípio de descentralização.
@@ -96,7 +96,7 @@ As EOAs são a interface primária entre usuários e a blockchain do Ethereum. E
 
 ---
 
-### **Limitações e Cuidados**
+## **Limitações e Cuidados**
 - **Segurança da Chave Privada**: Perder a chave privada ou expô-la a hackers resulta na perda total de controle sobre a EOA e seus ativos.
 - **Custo do Gas**: Toda transação iniciada por uma EOA exige pagamento de *gas*, que pode ser caro em momentos de alta demanda na rede.
 - **Falta de Automação**: Diferentemente das Contas de Contrato, EOAs não podem executar ações automáticas; cada transação exige intervenção do usuário.
