@@ -50,29 +50,18 @@
 
 - [Ethereum](/fundamentos/Ethereum/README.md)
 
-🔹 [MÓDULO 2 – Solidity para Devs (20h)](../blockchain/solidity/)
+🔹 MÓDULO 2 – Solidity para Devs (20h)
 
-- Tipos, storage vs memory, visibilidade, funções, structs
+- [Remix IDE](/solidity/remixide/README.md)
 
-- Eventos, modifiers, fallback, tratamento de erros
+- [Linguagem Solidity](/solidity/linguagem/Readme.md): Tipos, storage vs memory, visibilidade, funções, structs, eventos, modifiers.
 
-- Projeto: Contrato ERC20 customizado
-
-- Testes automatizados com Hardhat: coverage, mocking, fuzzing simples
-
-- Otimização de gas e melhores práticas
-
-🔹 [MÓDULO 3 – Tokens e Padrões (12h)](../blockchain/tokens/)
-
-- ERC-20: lógica de supply, approvals, allowance
-
-- ERC-721: NFTs com metadata, safeMint, baseURI
+- ERC-20, ERC-721, ERC-1155
 
 - Projeto: Marketplace NFT com contrato próprio
 
-- Introdução ao ERC-1155 (multi-token padrão)
 
-🔹 [MÓDULO 4 – Front-end com Web3 (12h)](../blockchain/frontednweb3/)
+🔹 [MÓDULO 3 – Front-end com Web3 (12h)](../blockchain/frontednweb3/)
 
 - Integração com Ethers.js e React (useEffect, hooks)
 
@@ -82,7 +71,7 @@
 
 - Transações assinadas pelo usuário
 
-🔹 [MÓDULO 5 – Deploy & Infraestrutura Web3 (8h)](../blockchain/deploy/)
+🔹 [MÓDULO 4 – Deploy & Infraestrutura Web3 (8h)](../blockchain/deploy/)
 
 - Deploy em testnet (Goerli/Sepolia)
 
@@ -92,7 +81,7 @@
 
 - Hospedagem descentralizada
 
-🔹 [MÓDULO 6 – Segurança e Auditoria (8h)](../blockchain/security/)
+🔹 [MÓDULO 5 – Segurança e Auditoria (8h)](../blockchain/security/)
 
 - Vulnerabilidades: reentrancy, overflow, frontrunning
 
@@ -102,7 +91,7 @@
 
 - Padrões de upgrade e proxies (básico)
 
-🔹 [MÓDULO 7 – Projeto Final (8h)](../blockchain/proejtofinal/)
+🔹 [MÓDULO 6 – Projeto Final (8h)](../blockchain/proejtofinal/)
 
 - Planejamento de DApp real
 
