@@ -56,7 +56,7 @@
 
 - [Linguagem Solidity](/solidity/linguagem/Readme.md): Tipos, storage vs memory, visibilidade, funções, structs, eventos, modifiers.
 
-- ERC-20, ERC-721, ERC-1155
+- [Tokens](/solidity/tokens/README.md) ERC-20, ERC-721, ERC-1155
 
 - Projeto: Marketplace NFT com contrato próprio
 
