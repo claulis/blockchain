@@ -121,3 +121,54 @@ ENS (Ethereum Name Service): Endereços legíveis (ex.: nome.eth) para substitui
 Criptomoedas: Como ETH e BTC, para transações.
 Tokens de Governança: Utilizados em DAOs para votação.
 NFTs: Representação de ativos digitais exclusivos.
+
+## Frameworks para Web3
+
+Frameworks Web3 geralmente se dividem em:
+
+- **Desenvolvimento e Implantação de Contratos Inteligentes**: Ferramentas para escrever, compilar, testar e implantar contratos.
+- **Interação com Blockchain**: Bibliotecas para conectar DApps a blockchains.
+- **Ferramentas de Interface e Integração**: Frameworks para criar front-ends que interagem com blockchains.
+- **Outras Blockchains**: Ferramentas específicas para blockchains além do Ethereum.
+
+### Principais Frameworks para Web3
+
+#### 1. Desenvolvimento e Implantação de Contratos Inteligentes
+
+- [Hardhat](https://hardhat.org/): Um ambiente de desenvolvimento Ethereum para compilar, testar, implantar e depurar contratos inteligentes. Oferece um ambiente local de blockchain, plugins extensíveis e integração com TypeScript.
+
+- [Foundry](https://getfoundry.sh/): Um framework em Rust para desenvolvimento Ethereum, focado em velocidade e testes. Testes em Solidity (em vez de JavaScript) e desempenho superior em projetos complexos.
+
+#### 2. Interação com Blockchain
+
+- [Web3.js](https://web3js.org/#/): Biblioteca JavaScript/TypeScript para interagir com blockchains Ethereum com amplo suporte para chamadas a contratos, transações e gerenciamento de carteiras.
+ 
+- [Ethers.js](https://github.com/ethers-io/ethers.js): Uma alternativa ao Web3.js, com API mais moderna e suporte nativo a TypeScript. Mais leve e com melhor tipagem, ideal para projetos TypeScript.
+
+- [Wagmi](https://wagmi.sh/): Um conjunto de hooks React para interagir com blockchains Ethereum, baseado em Ethers.js.Simplifica a criação de front-ends reativos, integrando carteiras e contratos.
+
+>Hooks são funções especiais do React (introduzidas na versão 16.8) que permitem gerenciar estado, efeitos colaterais e outras funcionalidades em componentes funcionais, sem a necessidade de componentes de classe.
+
+#### 3. Ferramentas de Interface e Integração
+
+- [RainbowKit](https://rainbowkit.com/pt-BR): Um kit de conexão de carteiras, compatível com Wagmi, para integrar MetaMask, WalletConnect, etc.Oferece uma interface amigável para autenticação de usuários.
+
+#### 4. Frameworks para Outras Blockchains
+
+- **Anchor (Solana)**: Framework para desenvolver programas (equivalentes a contratos inteligentes) na blockchain Solana.
+
+- **Substrate (Polkadot)**: Framework para criar blockchains personalizadas compatíveis com Polkadot. Ideal para projetos que requerem blockchains específicas.
+
+- **CosmWasm (Cosmos)**: Framework para contratos inteligentes em blockchains Cosmos, escrito em Rust.Suporta múltiplas blockchains no ecossistema Cosmos.
+ 
+#### Comparando os Frameworks (para Ethereum)
+
+| Framework   | Tipo                     | Vantagens                              | Desvantagens                          |
+|-------------|--------------------------|----------------------------------------|---------------------------------------|
+| Hardhat     | Desenvolvimento Ethereum  | Flexível, TypeScript, plugins          | Curva de aprendizado inicial          |
+| Foundry     | Desenvolvimento Ethereum  | Rápido, testes em Solidity             | Baseado em Rust, menos familiar       |
+| Web3.js     | Interação com Blockchain | Amplo suporte, comunidade grande       | API menos moderna                     |
+| Ethers.js   | Interação com Blockchain | Leve, TypeScript-friendly              | Menos recursos que Web3.js            |
+| Wagmi       | Front-end                | Hooks React, integração fácil           | Limitado a React                      |
+
+
