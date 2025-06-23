@@ -61,10 +61,9 @@
 - Projeto: Marketplace NFT com contrato próprio
 
 
-🔹 [MÓDULO 3 – Front-end com Web3 (12h)](../blockchain/frontednweb3/)
+🔹 MÓDULO 3 – Front-end com Web3 (12h)
 
-- Integração com Ethers.js e React (useEffect, hooks)
-
+- [Tecnologias WEB3](/blockchain/web3/README.md)
 - Conexão com carteiras (Metamask, WalletConnect)
 
 - Lendo dados da blockchain, ouvindo eventos
