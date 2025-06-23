@@ -63,7 +63,7 @@
 
 🔹 MÓDULO 3 – Front-end com Web3 (12h)
 
-- [Tecnologias WEB3](/blockchain/web3/README.md)
+- [Tecnologias WEB3](/blockchain/web3/)
 - Conexão com carteiras (Metamask, WalletConnect)
 
 - Lendo dados da blockchain, ouvindo eventos
