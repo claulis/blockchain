@@ -357,6 +357,3 @@ Uma variável `count` para armazenar o valor do contador. Funções `increment` 
 2. Hospede o front-end em uma plataforma como Vercel.
 3. Atualize o endereço do contrato no código do front-end.
 
----
-
-Se precisar de mais detalhes ou quiser explorar alguma parte específica (como adicionar testes ou melhorar a interface), me avise! Como você acha que poderia expandir este projeto para torná-lo mais interessante?
