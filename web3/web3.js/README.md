@@ -287,7 +287,7 @@ Uma variável `count` para armazenar o valor do contador. Funções `increment` 
 ### Passo 7: Testar Localmente
 
   1. Certifique-se de que o Ganache está rodando.
-  2. Abra o navegador com MetaMask instalado e configure-o para conectar à rede local (<http://127.0.0.1:8545>, chain ID 1337).
+  2. Abra o navegador com MetaMask instalado e configure-o para conectar à rede local (<http://localhost:8545>, chain ID 1337).
   3. Importe uma conta do Ganache no MetaMask usando a chave privada fornecida pelo Ganache.
   4. Acesse `http://localhost:3000` e teste os botões "Incrementar" e "Decrementar". Verifique se o contador atualiza.
 
