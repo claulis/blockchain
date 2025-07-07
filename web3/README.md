@@ -173,4 +173,8 @@ Frameworks Web3 geralmente se dividem em:
 | Ethers.js   | Interação com Blockchain | Leve, TypeScript-friendly              | Menos recursos que Web3.js            |
 | Wagmi       | Front-end                | Hooks React, integração fácil           | Limitado a React                      |
 
+### Exemplos prontos
+
+[web3.js](web3.js/README.md)
+[ethers.js](ethers.js/README.md)
 
