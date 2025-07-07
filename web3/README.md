@@ -2,6 +2,8 @@
 
 A Web3 é caracterizada como a terceira geração da internet, frequentemente designada como "internet descentralizada". Diferentemente da Web1, que se limitava a conteúdos estáticos de leitura, e da Web2, marcada pela interatividade, mas centralizada em plataformas corporativas, a Web3 promove a descentralização, conferindo aos usuários maior controle sobre seus dados, identidades e ativos digitais. Essa abordagem fundamenta-se em princípios de transparência, segurança, privacidade e autonomia, eliminando a dependência de intermediários e favorecendo interações peer-to-peer (P2P).
 
+
+
 ## Objetivos da Web3
 
 - Descentralização: Os dados e serviços são distribuídos em redes, sem controle centralizado.

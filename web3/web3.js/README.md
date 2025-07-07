@@ -14,6 +14,27 @@
 - **MetaMask**: Para conectar a carteira do usuário à DApp.
 - **Ganache**: Para rodar uma blockchain Ethereum local.
 
+### Como Funciona
+
+- **Contrato Inteligente**: Armazena o estado do contador na blockchain.
+- **Web3.js**: Permite que o front-end envie transações (increment/decrement) e consulte o estado (getCount).
+- **React**: Fornece uma interface amigável para os usuários.
+- **Ganache**: Simula uma blockchain Ethereum local para testes.
+- **MetaMask**: Conecta a carteira do usuário à DApp para assinar transações.
+
+### Como Rodar
+
+1. Inicie o Ganache.
+2. Compile e implante o contrato com Hardhat.
+3. Inicie o servidor React.
+4. Conecte o MetaMask à rede local e teste a DApp.
+
+### Como Publicar
+
+1. Implante o contrato em uma rede pública (ex.: Sepolia).
+2. Hospede o front-end em uma plataforma como Vercel.
+3. Atualize o endereço do contrato no código do front-end.
+
 ## Passo a Passo no Visual Studio Code
 
 ### Passo 1: Configurar o Ambiente
@@ -336,24 +357,5 @@ Uma variável `count` para armazenar o valor do contador. Funções `increment` 
      - Faça upload da pasta `build` para a plataforma de hospedagem.
   5. Atualize o `contractAddress` em `App.tsx` com o endereço do contrato implantado na Sepolia.
 
-### Como Funciona
 
-- **Contrato Inteligente**: Armazena o estado do contador na blockchain.
-- **Web3.js**: Permite que o front-end envie transações (increment/decrement) e consulte o estado (getCount).
-- **React**: Fornece uma interface amigável para os usuários.
-- **Ganache**: Simula uma blockchain Ethereum local para testes.
-- **MetaMask**: Conecta a carteira do usuário à DApp para assinar transações.
-
-### Como Rodar
-
-1. Inicie o Ganache.
-2. Compile e implante o contrato com Hardhat.
-3. Inicie o servidor React.
-4. Conecte o MetaMask à rede local e teste a DApp.
-
-### Como Publicar
-
-1. Implante o contrato em uma rede pública (ex.: Sepolia).
-2. Hospede o front-end em uma plataforma como Vercel.
-3. Atualize o endereço do contrato no código do front-end.
 
