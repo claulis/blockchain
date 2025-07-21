@@ -58,17 +58,11 @@
 
 - [Tokens](/solidity/tokens/README.md) ERC-20, ERC-721, ERC-1155
 
-- Projeto: Marketplace NFT com contrato próprio
-
-
 🔹 MÓDULO 3 – Front-end com Web3 (12h)
 
-- [Tecnologias WEB3](/blockchain/web3/)
-- Conexão com carteiras (Metamask, WalletConnect)
+- [Tecnologias WEB3](web3/README.md)
 
-- Lendo dados da blockchain, ouvindo eventos
-
-- Transações assinadas pelo usuário
+- [NFT](/web3/nft/README.md) e padrão ERC-721
 
 🔹 [MÓDULO 4 – Deploy & Infraestrutura Web3 (8h)](../blockchain/deploy/)
 
