@@ -242,7 +242,7 @@ Exemplo: Stablecoins como USDT usam cunhagem para aumentar o suprimento quando n
 
 ### Exemplo 2: Contrato ERC-721 (MeuNFT)
 
-Este contrato cria NFTs chamados "MeuNFT" (MNFT).
+Este contrato cria [NFTs](/solidity/tokens/erc721.md) chamados "MeuNFT" (MNFT).
 
 ```solidity
 // SPDX-License-Identifier: MIT
